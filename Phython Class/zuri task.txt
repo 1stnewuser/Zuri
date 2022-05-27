@@ -1,0 +1,6 @@
+#Steps
+#Open the txt file
+#Read each line using for loop
+#Count the words in a line using the split and len function
+#Print output
+
